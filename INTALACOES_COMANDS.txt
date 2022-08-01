@@ -1,0 +1,6 @@
+INSTALACOES DE DEPENDENCIAS  
+
+
+- npx create-next-app podcastrnext 
+
+- yarn dev -> abrir servidor de desenvolvedor 
